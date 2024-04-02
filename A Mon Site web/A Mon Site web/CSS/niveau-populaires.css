@@ -1,0 +1,84 @@
+
+body {
+    background-color: rgb(100, 100, 100);
+    overflow-x: hidden;
+    }
+    
+        
+    
+    p {
+      background-color: rgb(180, 180, 180);
+      border-radius: 10px 10px 10px 10px;
+      color: azure;
+      border: solid rgb(54, 54, 54) 5px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      max-width: 500px;
+      font-size: 1.2em;
+    }
+
+    .belle-banane img {
+        border: solid 20px #333333;
+        margin: auto;
+        max-width: 100%;
+        max-width: 1810px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+      }
+    
+      .grid-container {
+        display: flex;
+        grid-template-columns: auto auto auto auto;
+        gap: 235px;
+      }
+    
+      .grid-item {
+        padding: 10px;
+        font-size: 30px;
+        text-align: center;
+        
+      }
+    
+      .cta {
+        border: solid 4px rgb(71, 134, 192);
+        text-decoration: none;
+        color:#69ffdf;
+        border-radius:30px 30px 30px 30px ;
+        gap: 0px;
+        text-size-adjust:10em;
+        background:linear-gradient(#2E85AF,#0D435C );
+        transition: transform .2s;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    
+        
+    h1 {
+      width: 1850px;
+          height:40px;
+      border: solid 10px   #333333;;
+      text-align: center;
+      background-color: #535353;
+      color: rgb(205, 221, 255);
+      text-shadow: rgb(53, 53, 53) 2px 2px;
+    }
+    
+    
+    .cube {
+        width: 1850px;
+        height: 15px;
+        background-color: black;
+        margin-top: 0%;
+        padding-right: -100px;
+        }
+      
+        .logo-gd img {
+        max-width: 300px;
+        margin-right: 150px;
+        }
+      
+        .logo-gd {
+        margin: right 3px;
+        }
+
+        .image-items img {
+            max-width:100px;
+          }
